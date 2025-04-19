@@ -1,7 +1,7 @@
 {
   "name": "@andrea-falco/freelens-multi-pod-logs",
   "description": "Multi pod and container logs for Freelens",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Andrea Falco",
   "publisher": "Andrea Falco",
   "repository": {
@@ -13,7 +13,7 @@
   "renderer": "dist/renderer.js",
   "engines": {
     "node": ">=16 <17",
-    "freelens": "^0.1.4"
+    "freelens": "^1.0.0"
   },
   "scripts": {
     "start": "NODE_ENV=development webpack --watch",
