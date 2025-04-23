@@ -8,7 +8,7 @@ A [Freelens](https://github.com/freelensapp/freelens) extension that enables you
 </p>
 
 ## 🚧 Requirements
-- Freelens `>= 0.1.4`
+- Freelens `>= 1.0.0`
 - [stern](https://github.com/stern/stern/releases) `>= 1.30.0`
 > ⚠️ This extension uses `stern` under the hood, so it needs to be installed on your computer for the extension to work.
 > If you don't know how to install it you can follow [these steps](STERN.md).
