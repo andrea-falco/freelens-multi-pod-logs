@@ -1,8 +1,7 @@
 > [!WARNING]
 > This extension is **no longer actively maintained**.
 > 
-> I originally created this extension for [Lens/OpenLens](https://github.com/andrea-falco/lens-multi-pod-logs), and later adapted it for [Freelens](https://github.com/freelensapp/freelens) upon request from the FreeLens developers.
-> However, FreeLens updates frequently introduce breaking changes that require constant adjustments.
+> I originally created this extension for [Lens/OpenLens](https://github.com/andrea-falco/lens-multi-pod-logs), and later adapted it for [Freelens](https://github.com/freelensapp/freelens) upon request from the FreeLens developers.<br>However, FreeLens updates frequently introduce breaking changes that require constant adjustments.
 > 
 > As I do not use FreeLens myself, I’m unable to dedicate the time necessary to keep this extension up to date with each release.
 >
