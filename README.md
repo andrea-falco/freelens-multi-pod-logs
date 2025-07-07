@@ -1,3 +1,13 @@
+> [!WARNING]
+> This extension is **no longer actively maintained**.
+> 
+> I originally created this extension for [Lens/OpenLens](https://github.com/andrea-falco/lens-multi-pod-logs), and later adapted it for [Freelens](https://github.com/freelensapp/freelens) upon request from the FreeLens developers.
+> However, FreeLens updates frequently introduce breaking changes that require constant adjustments.
+> 
+> As I do not use FreeLens myself, I’m unable to dedicate the time necessary to keep this extension up to date with each release.
+>
+> Feel free to fork this project if you'd like to maintain or improve it.<br>Contributions are also welcome, but please be aware that I may not be able to respond promptly to issues or pull requests.
+
 # Multi Pod Logs Freelens Extension
 A [Freelens](https://github.com/freelensapp/freelens) extension that enables you to see logs from multiple pods *(and multiple containers within the pod)* on Kubernetes.
 
